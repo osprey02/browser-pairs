@@ -98,8 +98,8 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
+.ie {background: url(./http://brandjazz.typepad.com/.a/6a00d8341e2d6653ef013485f287a8970c-120wi) no-repeat; background-size: contain;}
+.fx {background: url(./http://openclipart.org/image/800px/svg_to_png/83863/58480760.png) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
 .op {background: url(./images/op.png) no-repeat; background-size: contain;}
