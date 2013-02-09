@@ -98,13 +98,13 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://brandjazz.typepad.com/.a/6a00d8341e2d6653ef013485f287a8970c-120wi) no-repeat; background-size: contain;}
+.ie {background: url(http://best-of-web.com/_images/080829-155728-276007.jpg) no-repeat; background-size: contain;}
 .fx {background: url(http://openclipart.org/image/800px/svg_to_png/83863/58480760.png) no-repeat; background-size: contain;}
 .cr {background: url(http://i4.ytimg.com/i/CPBwbbp6WtIExw0FCoq-8Q/1.jpg) no-repeat; background-size: contain;}
 .sf {background: url(http://i48.vbox7.com/a/hakergb_c62cd2e9_1.jpg) no-repeat; background-size: contain;}
 .op {background: url(http://3.s3.envato.com/files/3643.JPG) no-repeat; background-size: contain;}
 .ns {background: url(http://profile.ak.fbcdn.net/hprofile-ak-snc6/188136_155657294503256_5636382_s.jpg) no-repeat; background-size: contain;}
-.tb {background: url(images/tb.png) no-repeat; background-size: contain;}
+.tb {background: url(http://static8.depositphotos.com/1007168/831/i/110/depositphotos_8314057-Happy-Red-Dragon-Dancing.jpg) no-repeat; background-size: contain;}
 .fm {background: url(images/fm.png) no-repeat; background-size: contain;}
 
 
